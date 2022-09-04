@@ -144,7 +144,7 @@ Front-End Server should be up and serving http://localhost:3000
     cd myPhotos_api
     npm install
     npm start
-Front-End Server should be up and serving http://localhost:3001
+Back-End Server should be up and serving http://localhost:3001
 ## Open Browser
 http://localhost:3000
 ## Expected Page
